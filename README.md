@@ -18,13 +18,6 @@
 - 文档地址：[https://macrozheng.github.io/mall-learning](https://macrozheng.github.io/mall-learning)
 - 备用地址：[https://macrozheng.gitee.io/mall-learning](https://macrozheng.gitee.io/mall-learning)
 
-## 特别赞助商
-
-<p align="left">
-<a href="https://coding.net/?utm_source=macrozheng&utm_medium=banner&utm_campaign=march2019" target="_blank">
-  <img src="http://macro-oss.oss-cn-shenzhen.aliyuncs.com/mall/banner/coding.png" width=""/>
- </a>
-</p>
 
 ## 项目介绍
 
@@ -193,14 +186,9 @@ nginx | 1.10 | http://nginx.org/en/download.html
 - [Kubernetes权威指南](https://book.douban.com/subject/26902153/)
 - [Pro Git](https://git-scm.com/book/zh/v2)
 
-## 公众号
-
-mall项目全套学习教程连载中，**关注公众号**第一时间获取。
-
-![公众号图片](http://macro-oss.oss-cn-shenzhen.aliyuncs.com/mall/banner/qrcode_for_macrozheng_258.jpg)
 
 ## 许可证
 
-[Apache License 2.0](https://github.com/macrozheng/mall/blob/master/LICENSE)
+[Apache License 2.0](https://github.com/SOMaster/mall/blob/master/LICENSE)
 
-Copyright (c) 2018-2019 macrozheng
+Copyright (c) 2019-2020 SOMaster
